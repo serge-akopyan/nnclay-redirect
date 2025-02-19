@@ -1,5 +1,0 @@
-[[redirects]]
-from = "/*"
-to = "https://nnclay.claymore.agency"
-status = 301
-force = true
