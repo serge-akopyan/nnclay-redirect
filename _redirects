@@ -1,2 +1,6 @@
+# Redirect root and all paths to new domain
 http://nnclay.com/* https://nnclay.claymore.agency 301!
 https://nnclay.com/* https://nnclay.claymore.agency 301!
+
+# Explicitly handle the lander path
+/lander https://nnclay.claymore.agency 301!
